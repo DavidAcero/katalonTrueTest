@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/katalonTrueTest/static/css/main.7a0ba854.chunk.css",
-    "main.js": "/katalonTrueTest/static/js/main.2ba171d9.chunk.js",
-    "main.js.map": "/katalonTrueTest/static/js/main.2ba171d9.chunk.js.map",
+    "main.js": "/katalonTrueTest/static/js/main.57dcb01e.chunk.js",
+    "main.js.map": "/katalonTrueTest/static/js/main.57dcb01e.chunk.js.map",
     "runtime-main.js": "/katalonTrueTest/static/js/runtime-main.82b40240.js",
     "runtime-main.js.map": "/katalonTrueTest/static/js/runtime-main.82b40240.js.map",
-    "static/js/2.0f10cf11.chunk.js": "/katalonTrueTest/static/js/2.0f10cf11.chunk.js",
-    "static/js/2.0f10cf11.chunk.js.map": "/katalonTrueTest/static/js/2.0f10cf11.chunk.js.map",
+    "static/js/2.988fc718.chunk.js": "/katalonTrueTest/static/js/2.988fc718.chunk.js",
+    "static/js/2.988fc718.chunk.js.map": "/katalonTrueTest/static/js/2.988fc718.chunk.js.map",
     "static/js/3.cbd53d7d.chunk.js": "/katalonTrueTest/static/js/3.cbd53d7d.chunk.js",
     "static/js/3.cbd53d7d.chunk.js.map": "/katalonTrueTest/static/js/3.cbd53d7d.chunk.js.map",
     "index.html": "/katalonTrueTest/index.html",
     "static/css/main.7a0ba854.chunk.css.map": "/katalonTrueTest/static/css/main.7a0ba854.chunk.css.map",
-    "static/js/2.0f10cf11.chunk.js.LICENSE.txt": "/katalonTrueTest/static/js/2.0f10cf11.chunk.js.LICENSE.txt"
+    "static/js/2.988fc718.chunk.js.LICENSE.txt": "/katalonTrueTest/static/js/2.988fc718.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.82b40240.js",
-    "static/js/2.0f10cf11.chunk.js",
+    "static/js/2.988fc718.chunk.js",
     "static/css/main.7a0ba854.chunk.css",
-    "static/js/main.2ba171d9.chunk.js"
+    "static/js/main.57dcb01e.chunk.js"
   ]
 }
