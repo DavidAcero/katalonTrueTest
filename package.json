@@ -1,8 +1,8 @@
 {
-  "name": "reactjs-shopping-cart",
+  "name": "katalontruetest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rashmichandran.github.io/reactjs-shopping-cart/",
+  "homepage": "https://davidacero.github.io/katalontruetest/",
   "dependencies": {
     "@craco/craco": "^6.1.2",
     "@testing-library/jest-dom": "^5.12.0",
@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
-    "gh-pages": "^3.2.0",
+    "gh-pages": "^3.2.3",
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.4"
   }
