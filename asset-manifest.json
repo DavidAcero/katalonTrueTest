@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/katalontruetest/static/css/main.7a0ba854.chunk.css",
+    "main.js": "/katalontruetest/static/js/main.d3876e70.chunk.js",
+    "main.js.map": "/katalontruetest/static/js/main.d3876e70.chunk.js.map",
+    "runtime-main.js": "/katalontruetest/static/js/runtime-main.f78aaad1.js",
+    "runtime-main.js.map": "/katalontruetest/static/js/runtime-main.f78aaad1.js.map",
+    "static/js/2.ff48c2c2.chunk.js": "/katalontruetest/static/js/2.ff48c2c2.chunk.js",
+    "static/js/2.ff48c2c2.chunk.js.map": "/katalontruetest/static/js/2.ff48c2c2.chunk.js.map",
+    "static/js/3.82a65971.chunk.js": "/katalontruetest/static/js/3.82a65971.chunk.js",
+    "static/js/3.82a65971.chunk.js.map": "/katalontruetest/static/js/3.82a65971.chunk.js.map",
+    "index.html": "/katalontruetest/index.html",
+    "static/css/main.7a0ba854.chunk.css.map": "/katalontruetest/static/css/main.7a0ba854.chunk.css.map",
+    "static/js/2.ff48c2c2.chunk.js.LICENSE.txt": "/katalontruetest/static/js/2.ff48c2c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f78aaad1.js",
+    "static/js/2.ff48c2c2.chunk.js",
+    "static/css/main.7a0ba854.chunk.css",
+    "static/js/main.d3876e70.chunk.js"
+  ]
+}
