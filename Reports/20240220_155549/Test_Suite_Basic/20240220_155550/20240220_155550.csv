@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suite_Basic,Chrome 121.0.0.0,,,20-02-2024 15:55:51,20-02-2024 15:55:56,4.403s,PASSED
+,,,,,,,
+Test Cases/Test_Case_01,Chrome 121.0.0.0,,,20-02-2024 15:55:51,20-02-2024 15:55:56,4.333s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,20-02-2024 15:55:52,20-02-2024 15:55:53,1.285s,PASSED
+"navigateToUrl(""https://davidacero.github.io/katalonTrueTest/"")",Chrome 121.0.0.0,,,20-02-2024 15:55:53,20-02-2024 15:55:53,0.504s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_React App/select_SelectLowest to HighestHighest to Lowest""), ""highestprice"", true)",Chrome 121.0.0.0,,,20-02-2024 15:55:53,20-02-2024 15:55:55,1.339s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_React App/select_SelectLowest to HighestHighest to Lowest""), ""lowestprice"", true)",Chrome 121.0.0.0,,,20-02-2024 15:55:55,20-02-2024 15:55:56,0.966s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,20-02-2024 15:55:56,20-02-2024 15:55:56,0.143s,PASSED
