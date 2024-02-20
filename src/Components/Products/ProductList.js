@@ -16,6 +16,7 @@ import Axios from "axios";
 import { FETCH_PRODUCTS } from "../../Services/Product/action-types";
 import SyncLoader from "react-spinners/SyncLoader";
 import "./ProductList.css"
+import { productData } from "./productData";
 const ProductList = () => {
   const { cartItem, dispatch } = useContext(CartContext);
   const {products, productDispatch} = useContext(ProductContext);
@@ -26,13 +27,13 @@ const ProductList = () => {
       },
     });
 
-    const { photos } = data;
+    const { photos } = productData;
 
     const allProduct = photos.map((photo) => ({
       smallImage: photo.src.medium,
       tinyImage: photo.src.tiny,
-      productName: random.word(),
-      productPrice: commerce.price(),
+      productName: photo.name,
+      productPrice: photo.price,
       count: 0,
       id: datatype.uuid(),
       age: datatype.number(6)

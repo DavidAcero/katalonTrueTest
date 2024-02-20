@@ -41,7 +41,7 @@ const CartList = ({ closeCart, show }) => {
   return (
     <div className={showHideClassName}>
       <div className="absolute right-3 top-6">
-        <button onClick={() => closeCart()} className="focus:outline-none">
+        <button id="closeCartSelector" onClick={() => closeCart()} className="focus:outline-none">
           <MdClose className="w-5 h-5" />
         </button>
       </div>
@@ -74,7 +74,7 @@ const CartList = ({ closeCart, show }) => {
             ₹{totalPrice}
           </p>
         </div>
-        <button className="checkout-btn btn-green" onClick={()=> checkout()}>Checkout</button>
+        <button id="checkOutButton" className="checkout-btn btn-green" onClick={()=> checkout()}>Checkout</button>
       </div>
     </div>
   );
