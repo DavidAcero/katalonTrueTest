@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/katalontruetest/static/css/main.7a0ba854.chunk.css",
-    "main.js": "/katalontruetest/static/js/main.d3876e70.chunk.js",
-    "main.js.map": "/katalontruetest/static/js/main.d3876e70.chunk.js.map",
-    "runtime-main.js": "/katalontruetest/static/js/runtime-main.f78aaad1.js",
-    "runtime-main.js.map": "/katalontruetest/static/js/runtime-main.f78aaad1.js.map",
-    "static/js/2.ff48c2c2.chunk.js": "/katalontruetest/static/js/2.ff48c2c2.chunk.js",
-    "static/js/2.ff48c2c2.chunk.js.map": "/katalontruetest/static/js/2.ff48c2c2.chunk.js.map",
-    "static/js/3.82a65971.chunk.js": "/katalontruetest/static/js/3.82a65971.chunk.js",
-    "static/js/3.82a65971.chunk.js.map": "/katalontruetest/static/js/3.82a65971.chunk.js.map",
-    "index.html": "/katalontruetest/index.html",
-    "static/css/main.7a0ba854.chunk.css.map": "/katalontruetest/static/css/main.7a0ba854.chunk.css.map",
-    "static/js/2.ff48c2c2.chunk.js.LICENSE.txt": "/katalontruetest/static/js/2.ff48c2c2.chunk.js.LICENSE.txt"
+    "main.css": "/katalonTrueTest/static/css/main.7a0ba854.chunk.css",
+    "main.js": "/katalonTrueTest/static/js/main.2ba171d9.chunk.js",
+    "main.js.map": "/katalonTrueTest/static/js/main.2ba171d9.chunk.js.map",
+    "runtime-main.js": "/katalonTrueTest/static/js/runtime-main.82b40240.js",
+    "runtime-main.js.map": "/katalonTrueTest/static/js/runtime-main.82b40240.js.map",
+    "static/js/2.0f10cf11.chunk.js": "/katalonTrueTest/static/js/2.0f10cf11.chunk.js",
+    "static/js/2.0f10cf11.chunk.js.map": "/katalonTrueTest/static/js/2.0f10cf11.chunk.js.map",
+    "static/js/3.cbd53d7d.chunk.js": "/katalonTrueTest/static/js/3.cbd53d7d.chunk.js",
+    "static/js/3.cbd53d7d.chunk.js.map": "/katalonTrueTest/static/js/3.cbd53d7d.chunk.js.map",
+    "index.html": "/katalonTrueTest/index.html",
+    "static/css/main.7a0ba854.chunk.css.map": "/katalonTrueTest/static/css/main.7a0ba854.chunk.css.map",
+    "static/js/2.0f10cf11.chunk.js.LICENSE.txt": "/katalonTrueTest/static/js/2.0f10cf11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f78aaad1.js",
-    "static/js/2.ff48c2c2.chunk.js",
+    "static/js/runtime-main.82b40240.js",
+    "static/js/2.0f10cf11.chunk.js",
     "static/css/main.7a0ba854.chunk.css",
-    "static/js/main.d3876e70.chunk.js"
+    "static/js/main.2ba171d9.chunk.js"
   ]
 }
