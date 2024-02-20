@@ -2,7 +2,7 @@
   "name": "katalontruetest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://davidacero.github.io/katalontruetest/",
+  "homepage": "https://davidacero.github.io/katalonTrueTest/",
   "dependencies": {
     "@craco/craco": "^6.1.2",
     "@testing-library/jest-dom": "^5.12.0",
