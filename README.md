@@ -1,6 +1,6 @@
 # katalonTrueTest
-
-===NOTE===
+=== IMPORTANT ====
+===NOTE=== 
 
 This is a clone from the following repo: rashmichandran.github.io/reactjs-shopping-cart/
 
