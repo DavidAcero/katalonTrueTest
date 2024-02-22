@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight:wght@700&display=swap");
+
+.myHeader {
+    position: sticky;
+    top: 0;
+    background-color: var(--myBlack);
+    color: white;
+
+    padding: var(--myPadding);
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.storeName {
+    font-family: "Zilla Slab Highlight", cursive;
+    color: #f7b32b;
+}
+
+.nav-links {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.shopperCart {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+}
+
+.shopperCart::before {
+    content: attr(data-count);
+    padding: 5px;
+    font-size: var(--smallText);
+    position: absolute;
+    top: -0.5em;
+    right: -0.5em;
+    height: 1em;
+    width: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: var(--myGreen);
+}
+
+@media (max-width: 500px) {
+    .myHeader {
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+    }
+}
