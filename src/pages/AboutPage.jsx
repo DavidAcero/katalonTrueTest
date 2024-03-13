@@ -9,7 +9,7 @@ const AboutPage = () => {
         <h1 className="text-center">About Us</h1>
         <hr />
         <p className="lead text-center">
-          We decided to create this page since we started with a simple grocery store but got into sadly we couldn't compete 
+          We decided to create this new page since we started with a simple grocery store but sadly we couldn't compete 
           with the big companies, so we decided to start fresh with a new approach, clothes and eletronics. For more details 
           feel free to contact us.
         </p>
